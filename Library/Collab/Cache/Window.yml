@@ -14,13 +14,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   SimpleSelectedItems:
     m_Keys:
-    - Assets/Asset Packs/Synty - Polygon Student Sample/Materials/PolyAdventureMaterial_01.mat
-    - Assets/Asset Packs/Synty - Polygon Student Sample/Materials/PolygonSamurai_Mat_01.mat
-    - Assets/Game/Character/Character.controller
-    - ProjectSettings/ProjectSettings.asset
     - 
-    m_Values: 0101010101
-  RevisionSummary: Upgraded to Beta Version of Unity 2022.1.0b14.2951
+    m_Values: 01
+  RevisionSummary: 
   ChangesSearchValue: 
   SelectedHistoryRevision: 
   HistoryPageNumber: 0
